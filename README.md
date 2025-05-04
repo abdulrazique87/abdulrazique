@@ -5,7 +5,7 @@
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram)](...)
 [![GMAIL](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail)](...)
 
-## 🧑‍💻 About Me
+ 🧑‍💻 About Me
 
 Full Stack Developer
 
