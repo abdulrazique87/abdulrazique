@@ -9,7 +9,7 @@
 
 Full Stack Developer
 
-I am passionate about learning new technologies in the web and app space. I am proficient with the MERN stack and I aim to solve real world problems using these technologies.
+I am passionate about learning new technologies in the web and devops space. I am proficient with the MERN stack and I aim to solve real world problems using these technologies.
 A final year student at VIIT, Pune.
 
 - 🌐 I'm working as DevOps Intern at Brandspark Technologies.
