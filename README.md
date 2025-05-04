@@ -16,11 +16,19 @@ A final year student at VIIT, Pune.
 - ✉️  You can contact me at raziqueabdul3487@gmail.com
 
 ## 🛠️ Language and tools
-<img src="https://img.icons8.com/color/48/firebase.png" width="40"/>
-
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
+</p>
 ## 🔥 My Stats :
-![Sharvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharvil112003&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvil112003&layout=compact&theme=radical)
+![Razique's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrazique87&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazique87&layout=compact&theme=radical)
 
 
 
