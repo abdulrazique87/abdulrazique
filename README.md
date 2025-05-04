@@ -28,7 +28,8 @@ A final year student at VIIT, Pune.
 </p>
 ## 🔥 My Stats :
 ![Razique's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrazique87&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazique&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazique87&layout=compact&theme=radical)
 
 
 
