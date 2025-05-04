@@ -27,8 +27,9 @@ A final year student at VIIT, Pune.
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
 </p>
 ## 🔥 My Stats :
-![Razique's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrazique87&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazique87&layout=compact&theme=radical)
+![Razique's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrazique&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazique&layout=compact&theme=radical)
 
 
 
